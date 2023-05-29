@@ -30,6 +30,10 @@ Points which is not coverd in the project:
 
 
 
+ For making post request you can refer this screenshot   
+![Screenshot (188)](https://github.com/anilkumar541/care24-assignment/assets/59431789/123f928b-1508-47f3-b7b8-0f4c557944ca)
+
+
+
 
 Thanks.
-    
